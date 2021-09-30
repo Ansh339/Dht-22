@@ -5,7 +5,8 @@
   Arduino IoT Cloud Variables description
 
   The following variables are automatically generated and updated when changes are made to the Thing
-
+  
+  bool Led;
   float temperature;
 
   Variables which are marked as READ/WRITE in the Cloud Thing will also have functions
